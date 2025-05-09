@@ -34,6 +34,6 @@ php artisan key:generate php artisan migrate --seed php artisan serve
 ## Team Memeber
 Adil Surve  
 Shrivignesh Kavle  
-Isha Shah 
+Isha Shah  
 Jinal patel
 
