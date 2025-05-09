@@ -31,8 +31,8 @@ Edit .env with DB settings
 php artisan key:generate php artisan migrate --seed php artisan serve
 
 ## Team Memeber
-Adil Surve
-Shrivignesh Kavle
-Isha Shah
+Adil Surve 
+Shrivignesh Kavle 
+Isha Shah 
 Jinal patel
 
