@@ -30,9 +30,10 @@ sql Copy Edit CREATE DATABASE watchwise; 🔑 Step 6: Generate App Key bash Copy
 Edit .env with DB settings
 php artisan key:generate php artisan migrate --seed php artisan serve
 
+# List of Credits 
 ## Team Memeber
-Adil Surve 
-Shrivignesh Kavle 
+Adil Surve  
+Shrivignesh Kavle  
 Isha Shah 
 Jinal patel
 
